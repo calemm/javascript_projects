@@ -1,4 +1,4 @@
-/* This is a modification of codeacademy's
+/* This is a modification of codecademy's
  * JavaScript Unit 3 lesson "Search Text for Your Name"
  * https://www.codecademy.com/learn/javascript
  *
